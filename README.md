@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of reflar/nightmode.** Not for installation: use [Packagist](https://packagist.org/packages/reflar/nightmode) or the [upstream repository](https://github.com/ReFlar/nightmode).
 
-**0** versions archived · Latest: [`1.6.0`](https://github.com/flarchive/reflar-nightmode/tree/archive/v1.6.0) · License: `MIT` · Flarum: `^1.7.0`
+**42** versions archived · Latest: [`1.6.0`](https://github.com/flarchive/reflar-nightmode/tree/archive/v1.6.0) · License: `MIT` · Flarum: `^1.7.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2018-04-16 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/reflar-nightmode/tree/archive/v0.1.0) |
+| `0.1.1` | 2018-04-16 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/reflar-nightmode/tree/archive/v0.1.1) |
+| `0.1.2` | 2018-05-10 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/reflar-nightmode/tree/archive/v0.1.2) |
+| `0.1.3` | 2018-05-10 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/reflar-nightmode/tree/archive/v0.1.3) |
+| `0.1.4` | 2018-05-13 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/reflar-nightmode/tree/archive/v0.1.4) |
+| `0.1.5` | 2018-05-15 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/reflar-nightmode/tree/archive/v0.1.5) |
+| `0.1.6` | 2018-08-18 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/reflar-nightmode/tree/archive/v0.1.6) |
+| `0.2.0` | 2018-12-25 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/reflar-nightmode/tree/archive/v0.2.0) |
+| `0.3.0` | 2019-09-28 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/reflar-nightmode/tree/archive/v0.3.0) |
+| `0.4.0` | 2020-01-29 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/reflar-nightmode/tree/archive/v0.4.0) |
+
+[View all 42 versions](https://github.com/flarchive/reflar-nightmode/tags)
 
 Catalog entry: [packages/reflar-nightmode.json](https://github.com/flarchive/archive-index/blob/main/packages/reflar-nightmode.json)
 
